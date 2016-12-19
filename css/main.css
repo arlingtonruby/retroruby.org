@@ -1,19 +1,62 @@
 body {
   background-color: #67BEE8;
-  font: 14px petme128y, monospace, sans-serif;
-  font-size: small;
-  text-align: center;
 }
 
-h1 {
+#home h1 {
   font: 54px petme128, monospace, sans-serif;
 }
 
-img.logo {
+#home img.logo {
   width: 401px;
   height: 277px;
 }
 
 #home {
   margin-top: 50px;
+  font: 14px petme128y, monospace, sans-serif;
+  font-size: small;
+  text-align: center;
+}
+
+header {
+  width: 100%;
+}
+
+header h1 {
+  max-width: 900px;
+  margin: 30px auto;
+}
+header h1 a {
+  text-decoration:none;
+  color: white;
+}
+
+.container {
+  width: 100%;
+  background-color: white;
+}
+.content {
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 30px 0;
+}
+
+footer {
+  text-align: center;
+  padding-top: 30px;
+}
+footer ul {
+  margin: 20px 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+footer ul li {
+  padding-right: 20px;
+  display: inline-block;
+
+}
+footer ul a {
+  color: white;
+  text-decoration: none;
 }
