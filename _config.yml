@@ -1,3 +1,8 @@
 name: Retro Ruby - The Ruby Retrocession Unconf
-markdown: redcarpet
-highlighter: pygments
+github: [metadata]
+kramdown:
+ input: GFM
+ hard_wrap: false
+gems:
+ - jekyll-coffeescript
+ - jekyll-paginate
