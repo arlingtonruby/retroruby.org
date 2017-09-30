@@ -5,7 +5,7 @@ layout: page
 ## Schedule
 
 | Time        | Room 125      | Room 126      |
-| :----------:|:-------------:|:-------------:|
+| :----------:|:--------------|:--------------|
 | 10:05-10:55 | Career Path   | Testing       |
 | 11:05-12:00 | Everything Freelancing | Growing High Quality Software |
 | 12:05-1:50  | Lunch         | Lunch         |
