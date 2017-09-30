@@ -19,7 +19,7 @@ layout: page
 |             |                                   |                               |
 | 3:50-4:35   | Talking about Code with Kids | How to Make Rail Play Nice with React  |
 |             |                              |                                        |
-| 4:45-5:15   | Lightening Talks | Lightening Talks |
+| 4:45-5:15   | Lightning talks | Lightning talks |
 |             |                  |                  |
 | 5:20-6:00   | Retrospective | Retrospective |
 
