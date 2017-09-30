@@ -16,7 +16,7 @@ layout: page
 | 5:20-6:00   | Retrospective | Retrospective |
 
 ### Slack:
-** Sign up on [dctech.chat](http://dctech.chat) and join channel #retrocession **
+**Sign up on [dctech.chat](http://dctech.chat) and join channel #retrocession**
 + Add session notes here (books, blogposts, gems, etc.)  
 
 ### Twitter: [@arlingtonruby](https://twitter.com/arlingtonruby)
