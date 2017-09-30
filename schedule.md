@@ -20,4 +20,4 @@ layout: page
 + Add session notes here (books, blogposts, gems, etc.)  
 
 ### Twitter: [@arlingtonruby](https://twitter.com/arlingtonruby)
-### Schedule: [retroruby.org/schedule](http://retroruby.org)
+### Schedule: [retroruby.org/schedule](http://retroruby.org/schedule)
