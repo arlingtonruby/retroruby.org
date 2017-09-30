@@ -17,7 +17,7 @@ layout: page
 |             |                               |               |
 | 2:55-3:40   | Individual and/or Team Psychology | Data Science - Python v Ruby  |
 |             |                                   |                               |
-| 3:50-4:35   | Talking about Code with Kids | How to Make Rail Play Nice with React  |
+| 3:50-4:35   | Talking about Code with Kids | How to Make Rails Play Nice with React  |
 |             |                              |                                        |
 | 4:45-5:15   | Lightning talks | Lightning talks |
 |             |                  |                  |
